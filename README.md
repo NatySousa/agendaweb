@@ -1,4 +1,4 @@
-<h2 align="center"> ## Projeto Agenda Web - Aplicação para controle de eventos de usuário 📆:</h2>
+<h2 align="center"> ## Projeto Agenda Web - Aplicação para controle de eventos de usuário 📆</h2>
 
 <p align="justify"># Projeto desenvolvido em AspNet MVC com as tecnologias:rocket::rocket:: <br>
 1. AspNet 6 MVC
