@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "387ce763-42cb-49c3-874d-023950542d24": {
+      "ProjectGuid": "387ce763-42cb-49c3-874d-023950542d24",
+      "DisplayName": "AgendaWeb.Presentation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "9d16e390-3058-45d0-ba2c-3baa8ca7bf20": {
+      "ProjectGuid": "9d16e390-3058-45d0-ba2c-3baa8ca7bf20",
+      "DisplayName": "AgendaWeb.Infra.Data",
+      "ColorIndex": 1
+    },
+    "236d959b-250c-4942-8cd7-d2beee9da000": {
+      "ProjectGuid": "236d959b-250c-4942-8cd7-d2beee9da000",
+      "DisplayName": "AgendaWeb.Infra.Reports",
+      "ColorIndex": 2
+    },
+    "0d67533d-9c42-4c6c-9ae7-ac852dc1b646": {
+      "ProjectGuid": "0d67533d-9c42-4c6c-9ae7-ac852dc1b646",
+      "DisplayName": "2.1- Data",
+      "ColorIndex": 3
+    },
+    "06f972f2-bfd5-4396-a631-1e7c576c29e3": {
+      "ProjectGuid": "06f972f2-bfd5-4396-a631-1e7c576c29e3",
+      "DisplayName": "DTOs",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
